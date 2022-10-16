@@ -9,8 +9,8 @@ I am passionate about technology and continuous learning for problem solving and
 
 With the use of code, my academic backgorund in electronic engineering and being part of software projects, I help clients to bring their ideas and products to fruition.
 
-* `CONTACT:` 
-<a href="https://www.linkedin.com/in/daniel-miranda-castillo/" target="_blank">
+* `CONTACT:` <br><br>
+&nbsp; <a href="https://www.linkedin.com/in/daniel-miranda-castillo/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
  </a>
 
