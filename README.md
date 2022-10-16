@@ -1,5 +1,5 @@
 ### 👋Hi! I'm Daniel Miranda Castillo👋
-⚡**`DEVELOPER FULLSTACK`**⚡
+⚡`DEVELOPER FULLSTACK`⚡
 
 ### ✨ About me 
 
@@ -9,11 +9,12 @@ I am passionate about technology and continuous learning for problem solving and
 
 With the use of code, my academic backgorund in electronic engineering and being part of software projects, I help clients to bring their ideas and products to fruition.
 
-<a href="https://www.linkedin.com/in/sudheer-jonna-b9009142/">
+* `CONTACT:` 
+<a href="https://www.linkedin.com/in/daniel-miranda-castillo/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
  </a>
 
---
+---
 
 ### 🧰 Languages and SKILLS
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
