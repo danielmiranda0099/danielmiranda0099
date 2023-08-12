@@ -1,11 +1,11 @@
 ### 👋Hi! I'm Daniel Miranda Castillo👋
-⚡`DEVELOPER FULLSTACK`⚡
+⚡`SOFTWARE DEVELOPER`⚡
 
 ### ✨ About me 
 
-I am an electronic engineer, currently focused on software development as a fullstack developer and I develop all kinds of scalable, secure and flexible solutions and products. I currently handle technologies such as Javascript, React, Node, MongoDB, Tyscript, Mysql and many more. 
+An electronic engineer, currently focused on software development as a fullstack developer and I develop all kinds of scalable, secure and flexible solutions and products. I currently handle technologies such as Javascript, React, Node, MongoDB, Tyscript, Mysql and many more. 
 
-I am passionate about technology and continuous learning for problem solving and transforming ideas with the help of software into something that helps people.
+Passionate about technology and continuous learning for problem solving and transforming ideas with the help of software into something that helps people.
 
 With the use of code, my academic backgorund in electronic engineering and being part of software projects, I help clients to bring their ideas and products to fruition.
 
